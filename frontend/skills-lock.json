@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "resume-review": {
+      "source": "trainwithshubham/skills",
+      "sourceType": "github",
+      "skillPath": "skills/resume-review/SKILL.md",
+      "computedHash": "909273d19b8485766bab52091526d7da49a20568f9f4f22e0e8aa10b151181d9"
+    }
+  }
+}
