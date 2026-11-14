@@ -1,5 +1,4 @@
 .env*
-.git
 .agents
 .claude
 npm-debug.log*
