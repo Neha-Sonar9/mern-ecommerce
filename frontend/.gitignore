@@ -1,4 +1,6 @@
 .env*
+!.env.example
+.DS_Store
 .agents
 .claude
 npm-debug.log*
