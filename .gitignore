@@ -1,4 +1,7 @@
 node_modules
 .env*
-frontend/.env.production
-.git
+!.env.example
+build/
+npm-debug.log*
+.DS_Store
+
